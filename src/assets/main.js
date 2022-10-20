@@ -6,7 +6,7 @@ const content = null || document.getElementById("content");
 const options = {
 	method: 'GET',
 	headers: {
-		'X-RapidAPI-Key': '978249484emsh95eb6158bab0700p1d9210jsn9207e6ca18c7',
+		'X-RapidAPI-Key': 'here the api key',
 		'X-RapidAPI-Host': 'youtube-v31.p.rapidapi.com'
 	}
 };
